@@ -1,13 +1,13 @@
-package io.github.usmankhi18.attendancetrackingsystem.Admin;
+package io.github.usmankhi18.attendancetrackingsystem;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class AddStudentActivity extends AppCompatActivity {
+public class ChangePasswordActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_add_student);
+        setContentView(R.layout.activity_change_password);
     }
 }
