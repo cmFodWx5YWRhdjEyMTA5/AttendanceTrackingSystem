@@ -1,13 +1,13 @@
-package io.github.usmankhi18.attendancetrackingsystem.Admin;
+package io.github.usmankhi18.attendancetrackingsystem;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class CourseStudentMappingActivity extends AppCompatActivity {
+public class TeacherDashboardActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_course_student_mapping);
+        setContentView(R.layout.activity_teacher_dashboard);
     }
 }
