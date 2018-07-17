@@ -1,7 +1,9 @@
-package io.github.usmankhi18.attendancetrackingsystem.Attendance;
+package io.github.usmankhi18.attendancetrackingsystem.attendance;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import io.github.usmankhi18.attendancetrackingsystem.R;
 
 public class ViewAttendanceActivity extends AppCompatActivity {
 

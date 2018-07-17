@@ -1,7 +1,8 @@
-package io.github.usmankhi18.attendancetrackingsystem.Mapping;
+package io.github.usmankhi18.attendancetrackingsystem.mapping;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import io.github.usmankhi18.attendancetrackingsystem.R;
 
 public class StudentCourseMappingActivity extends AppCompatActivity {
 
