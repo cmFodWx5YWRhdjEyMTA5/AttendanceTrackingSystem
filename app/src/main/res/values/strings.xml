@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">AttendanceTrackingSystem</string>
+    <string name="app_name">Attendance Tracking System</string>
     <string name="title_activity_add_student">AddStudentActivity</string>
     <string name="title_activity_add_teacher">AddTeacherActivity</string>
     <string name="title_activity_view_attendance">ViewAttendanceActivity</string>
