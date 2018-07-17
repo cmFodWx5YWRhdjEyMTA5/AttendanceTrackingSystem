@@ -16,6 +16,28 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".SplashActivity" />
+        <activity android:name=".Attendance.ViewAttendanceActivity" />
+        <activity android:name=".Attendance.AttendanceDetailActivity" />
+        <activity android:name=".Attendance.TakeAttendanceActivity" />
+        <activity android:name=".Courses.ViewCoursesActivity" />
+        <activity android:name=".Courses.AddCoursesActivity" />
+        <activity android:name=".Courses.UpdateCoursesActivity" />
+        <activity android:name=".Courses.DeleteCoursesActivity" />
+        <activity android:name=".ChangePasswordActivity" />
+        <activity android:name=".Teacher.AddTeacherActivity" />
+        <activity android:name=".Teacher.ViewTeachersActivity" />
+        <activity android:name=".Teacher.UpdateTeacherActivity" />
+        <activity android:name=".Teacher.DeleteTeacherActivity" />
+        <activity android:name=".Student.DeleteStudentActivity" />
+        <activity android:name=".Student.UpdateStudentActivity" />
+        <activity android:name=".Student.ViewStudentActivity" />
+        <activity android:name=".Student.AddStudentActivity" />
+        <activity android:name=".StudentDashboardActivity" />
+        <activity android:name=".TeacherDashboardActivity" />
+        <activity android:name=".Mapping.StudentCourseMappingActivity" />
+        <activity android:name=".Mapping.TeacherCourseMappingActivity"></activity>
     </application>
 
 </manifest>
