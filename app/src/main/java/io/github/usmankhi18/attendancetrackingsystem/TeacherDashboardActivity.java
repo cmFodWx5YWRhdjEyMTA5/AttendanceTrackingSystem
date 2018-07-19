@@ -1,9 +1,10 @@
 package io.github.usmankhi18.attendancetrackingsystem;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class TeacherDashboardActivity extends AppCompatActivity {
+public class TeacherDashboardActivity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
