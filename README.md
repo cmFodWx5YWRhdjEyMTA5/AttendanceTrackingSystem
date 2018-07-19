@@ -1,6 +1,8 @@
 # Attendance Tracking System
 Android Application
 
+![GitHub Logo](https://github.com/usmankhi18/AttendanceTrackingSystem/blob/master/ATS.png)
+
 # Scope:
 Attendance is important for any organization and is rapidly growing in terms of changes in technology and speed. From paper based to digital systems and we present a system which uses an Android system to fulfill all the requirements for an Attendance System. 
 It uses the most reliable way of uniquely identifying students through an android app. Such type of Android application is very useful in school as well as in college for daily attendance. Through this system, we can keep a systematic track of student's attendance on daily basis.
