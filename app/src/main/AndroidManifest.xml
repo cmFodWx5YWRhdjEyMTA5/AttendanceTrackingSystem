@@ -8,15 +8,17 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+
         <!-- Admin Dashboard Activity -->
-        <activity android:name=".MainActivity"
-                  android:screenOrientation="portrait"
-                  android:theme="@android:style/Theme.Light.NoTitleBar"/>
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme.NoActionBar"/>
         <!-- Login Activity -->
-        <activity android:name=".LoginActivity"
+        <activity
+            android:name=".LoginActivity"
             android:screenOrientation="portrait"
-            android:theme="@android:style/Theme.Light.NoTitleBar">
-        </activity>
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
         <!-- Splash screen -->
         <activity
             android:name=".SplashActivity"
@@ -45,14 +47,16 @@
         <activity android:name=".student.UpdateStudentActivity" />
         <activity android:name=".student.AddStudentActivity" />
         <!-- Student Dashboard Activity -->
-        <activity android:name=".StudentDashboardActivity"
-                  android:screenOrientation="portrait"
-                  android:theme="@android:style/Theme.Light.NoTitleBar"/>
+        <activity
+            android:name=".StudentDashboardActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
         <activity android:name=".student.ViewStudentActivity" />
         <!-- Teacher Dashboard Activity -->
-        <activity android:name=".TeacherDashboardActivity"
-                  android:screenOrientation="portrait"
-                  android:theme="@android:style/Theme.Light.NoTitleBar"/>
+        <activity
+            android:name=".TeacherDashboardActivity"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Light.NoTitleBar" />
         <activity android:name=".mapping.StudentCourseMappingActivity" />
         <activity android:name=".mapping.TeacherCourseMappingActivity" />
     </application>
