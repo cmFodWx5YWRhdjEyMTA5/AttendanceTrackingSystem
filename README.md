@@ -1,7 +1,8 @@
 # Attendance Tracking System
-Android Application
 
-![GitHub Logo](https://github.com/usmankhi18/AttendanceTrackingSystem/blob/master/ATS.png)
+<p align="center">
+  <img src="https://github.com/usmankhi18/AttendanceTrackingSystem/blob/master/ATS.png">
+</p>
 
 # Scope:
 Attendance is important for any organization and is rapidly growing in terms of changes in technology and speed. From paper based to digital systems and we present a system which uses an Android system to fulfill all the requirements for an Attendance System. 
